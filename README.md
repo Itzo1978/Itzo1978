@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Itzo1978
 - 👀 I’m interested in 3D print
 - 🌱 I’m currently learning Mods for Voron 2.4 and for anothers 3D printers
-- 📫 How to reach me ? Discord : Itzo#7585 ; Telegram : @Itzo1978
+- 📫 How to reach me ? Discord : Itzo#7585
